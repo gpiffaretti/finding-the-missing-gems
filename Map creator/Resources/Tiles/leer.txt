@@ -1,0 +1,6 @@
+
+
+Tiles 64 x 48
+Ángulo de la rampa 36 grados.
+255,255,255 - color transparente en las rampas
+0,0,0 - color transparente en el tile de salida 

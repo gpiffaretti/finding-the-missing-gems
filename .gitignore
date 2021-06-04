@@ -1,0 +1,5 @@
+*.ReSharper.user
+_ReSharper.ObligatorioVJ
+*/**/bin
+*/**/obj
+*.db
